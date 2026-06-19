@@ -1,0 +1,10 @@
+Transistor-Construction and operation of NPN and PNP transistor
+Configurations – CB, Input output Characteristics-Configurations – CE, 
+Input output Characteristics-Configurations – CC, Input output Characteristics
+Ebers Moll Model
+Early Effect-Thermal run away & Heat sink
+BJT Biasing and Stabilization-Fixed Base bias-Collector to Base Bias- Emitter bias-Voltage divider bias
+Small signal low frequency h-parameter model-Small-signal and large-signal analysis of transistor amplifier circuits using SPICE
+Transistor hybrid model-h-parameter model for the CE configuration
+Analysis of Transistor amplifier configurations using simplified h-parameter model-Measurement & Performance Standards (IEEE std 1515)
+Heat distribution and thermal runaway modeling in BJTs using COMSOL Multiphysics
